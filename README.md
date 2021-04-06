@@ -1,0 +1,44 @@
+n1 = int(input('Escreva um número:'))
+m1 = n1 * 1
+m2 = n1 * 2
+m3 = n1 * 3
+m4 = n1 * 4
+m5 = n1 * 5
+m6 = n1 * 6
+m7 = n1 * 7
+m8 = n1 * 8
+m9 = n1 * 9
+m10 = n1 * 10
+m11 = n1 * 11
+m12 = n1 * 12
+m13 = n1 * 13
+m14 = n1 * 14
+m15 = n1 * 15
+m16 = n1 * 16
+m17 = n1 * 17
+m18 = n1 * 18
+m19 = n1 * 19
+m20 = n1 * 20
+print('De acordo com o {} a tabuda dele e:'.format(n1))
+print('____________________')
+print('{}x1= {}'.format(n1, m1))
+print('{}x2= {}'.format(n1, m2))
+print('{}x3= {}'.format(n1, m3))
+print('{}x4= {}'.format(n1, m4))
+print('{}x5= {}'.format(n1, m5))
+print('{}x6= {}'.format(n1, m6))
+print('{}x7= {}'.format(n1, m7))
+print('{}x8= {}'.format(n1, m8))
+print('{}x9= {}'.format(n1, m9))
+print('{}x10={}'.format(n1, m10))
+print('{}x11={}'.format(n1, m11))
+print('{}x12={}'.format(n1, m12))
+print('{}x13={}'.format(n1, m13))
+print('{}x14={}'.format(n1, m14))
+print('{}x15={}'.format(n1, m15))
+print('{}x16={}'.format(n1, m16))
+print('{}x17={}'.format(n1, m17))
+print('{}x18={}'.format(n1, m18))
+print('{}x19={}'.format(n1, m19))
+print('{}x20={}'.format(n1, m20))
+print('____________________')
