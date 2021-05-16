@@ -47,6 +47,5 @@ def downloadPlaylist(url_playlist):
 
 
 downloadURL("")  # chamar funcao para download unico
-# downloadPlaylist("https://www.youtube.com/watch?v=UrT0zCmsN8c&list=PLsEx1ZKe8IpVY9ltdnBW60FOiPqtiMAMD") #download de playlist, copiar url d playlist
 exit()
 
